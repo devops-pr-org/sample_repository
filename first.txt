@@ -1,3 +1,2 @@
 Hello this is my first text file creting for store in repository
-this line is updated
 end of first.txt
